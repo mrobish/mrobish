@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mrobish&style=for-the-badge&color=blueviolet&label=KUNJUNGAN" alt="Kunjungan profil" />
   &nbsp;
-  <a href="https://kanyut.my.id"><img src="https://img.shields.io/badge/Website-kanyut.my.id-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://silabudigi.com"><img src="https://img.shields.io/badge/Website-silabudigi.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </div>
 
 ---
@@ -21,7 +21,7 @@
 - 🔭 Sedang membangun **SILABU DIGI** — Sistem Laporan BUM Desa Digital
 - 🌱 Fokus di pengembangan web fullstack: React, TypeScript, Node.js
 - 🎯 Misi: digitalisasi administrasi & pelaporan keuangan desa
-- 🌍 Indonesia · [kanyut.my.id](https://kanyut.my.id)
+- 🌍 Indonesia · [silabudigi.com](https://silabudigi.com)
 - ⚡ Fun fact: kode diketik malam hari, ide lahir saat minum kopi ☕
 
 ---
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">🏛️ SILABU DIGI</h3>
+      <h3 align="center">🏛️ <a href="https://silabudigi.com">SILABU DIGI</a></h3>
       <p align="center">
         <b>Sistem Laporan BUM Desa Digital</b><br/>
         Platform pelaporan keuangan BUM Desa — dari pembukuan sampai laporan akuntansi siap cetak (PDF/Excel).<br/>
@@ -63,6 +63,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,postgres,git,github,vscode&perline=9" alt="Tech Stack" />
   </a>
+</div>
+
+---
+
+## 📞 Kontak Saya
+
+<div align="center">
+  <a href="https://wa.me/6287777942737"><img src="https://img.shields.io/badge/WhatsApp-0877--7779--4273-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  &nbsp;
+  <a href="mailto:mrobis.id@gmail.com"><img src="https://img.shields.io/badge/Email-mrobis.id%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
